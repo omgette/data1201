@@ -8,7 +8,7 @@ fi
 if [ -f $1 ]; then
 	cat $1
 else
-	echo "File doesn't exist"
+	echo "File doesn't exist!"
 fi
 
 
