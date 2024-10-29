@@ -13,4 +13,4 @@ Data 1201 - Explorations in Data Science
 | Week 2 | Command Line Basics   | -              |
 | Week 3 | Working With Files    | -              |
 | Week 4 | Markdown              | This Readme    |
->>>>>>> f74f14d43233123d8bb5ff784390d608630e54e9
+
